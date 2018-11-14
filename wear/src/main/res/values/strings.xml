@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wear OS app</string>
+    <string name="intro_text">Swipe edge to exit the map.</string>
+</resources>
